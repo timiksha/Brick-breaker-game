@@ -1,10 +1,5 @@
-'''
-Created on Feb 26, 2021
 
-@author: martinyanev
-'''
 import tkinter as tk
-
 
 
 class PlayComponent(object):
